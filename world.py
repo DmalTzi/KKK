@@ -1,1 +1,1 @@
-print("dlrow")
+print("world")
